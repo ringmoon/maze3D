@@ -1,0 +1,30 @@
+﻿  Maze3D.cpp
+c:\users\andy\desktop\maze3d\mazeproject\mazeproject\angel.h(69): warning C4305: '正在初始化': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\andy\desktop\maze3d\mazeproject\mazeproject\mat.h(756): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\andy\desktop\maze3d\mazeproject\mazeproject\mat.h(757): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\andy\desktop\maze3d\mazeproject\mazeproject\mat.h(758): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\andy\desktop\maze3d\mazeproject\mazeproject\mat.h(779): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\andy\desktop\maze3d\mazeproject\mazeproject\mat.h(781): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\andy\desktop\maze3d\mazeproject\mazeproject\mat.h(784): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\andy\desktop\maze3d\mazeproject\mazeproject\mat.h(800): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\andy\desktop\maze3d\mazeproject\mazeproject\maze3d.cpp(194): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\andy\desktop\maze3d\mazeproject\mazeproject\maze3d.cpp(195): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\andy\desktop\maze3d\mazeproject\mazeproject\maze3d.cpp(196): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\andy\desktop\maze3d\mazeproject\mazeproject\maze3d.cpp(197): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\andy\desktop\maze3d\mazeproject\mazeproject\maze3d.cpp(209): warning C4244: '引數': 將 'int' 轉換為 'const GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\andy\desktop\maze3d\mazeproject\mazeproject\maze3d.cpp(286): warning C4244: '引數': 將 'int' 轉換為 'const GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\andy\desktop\maze3d\mazeproject\mazeproject\maze3d.cpp(287): warning C4244: '引數': 將 'int' 轉換為 'const GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\andy\desktop\maze3d\mazeproject\mazeproject\maze3d.cpp(288): warning C4244: '引數': 將 'int' 轉換為 'const GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\andy\desktop\maze3d\mazeproject\mazeproject\maze3d.cpp(289): warning C4244: '引數': 將 'int' 轉換為 'const GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\andy\desktop\maze3d\mazeproject\mazeproject\maze3d.cpp(309): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\andy\desktop\maze3d\mazeproject\mazeproject\maze3d.cpp(310): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\andy\desktop\maze3d\mazeproject\mazeproject\maze3d.cpp(311): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\andy\desktop\maze3d\mazeproject\mazeproject\maze3d.cpp(312): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+c:\users\andy\desktop\maze3d\mazeproject\mazeproject\maze3d.cpp(375): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\andy\desktop\maze3d\mazeproject\mazeproject\maze3d.cpp(376): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+c:\users\andy\desktop\maze3d\mazeproject\mazeproject\maze3d.cpp(421): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\andy\desktop\maze3d\mazeproject\mazeproject\maze3d.cpp(424): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+c:\users\andy\desktop\maze3d\mazeproject\mazeproject\maze3d.cpp(439): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\andy\desktop\maze3d\mazeproject\mazeproject\maze3d.cpp(199): warning C4172: 傳回區域變數或暫存的位址: vertices
+  MazeProject.vcxproj -> C:\Users\Andy\Desktop\Maze3D\MazeProject\Debug\MazeProject.exe
+  MazeProject.vcxproj -> C:\Users\Andy\Desktop\Maze3D\MazeProject\Debug\MazeProject.pdb (Partial PDB)
